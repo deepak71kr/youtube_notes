@@ -44,9 +44,9 @@ python main.py
    (\~100MB).
 4. **Enter a name** for your output PDF when prompted.
 
-**Raw Picture
+## Raw Picture
 <img width="1156" height="576" alt="frame_bgonly_0" src="https://github.com/S-A-U-R-A-V-48/slidelens.ai/blob/main/original_img2.jpeg" />
-**Person detected an removed at intervals until we found the whole complete picture
+## Person detected and removed at intervals until we found the complete picture
 <img width="1156" height="576" alt="frame_bgonly_0" src="https://github.com/user-attachments/assets/ce68fd01-113b-41db-918d-2d1650faa38f" />
 <img width="1156" height="576" alt="frame_bgonly_0" src="https://github.com/S-A-U-R-A-V-48/slidelens.ai/blob/main/frame_bgonly_30.png" />
 <img width="1156" height="576" alt="frame_bgonly_0" src="https://github.com/S-A-U-R-A-V-48/slidelens.ai/blob/main/frame_bgonly_60.png" />
@@ -56,7 +56,7 @@ python main.py
 <img width="1156" height="576" alt="frame_bgonly_0" src="https://github.com/S-A-U-R-A-V-48/slidelens.ai/blob/main/frame_bgonly_270.png" />
 
 
-**final Composition after merging
+## FINAL Composition after merging all extracted images
 
 <img width="1156" height="576" alt="frame_bgonly_0" src="https://github.com/S-A-U-R-A-V-48/slidelens.ai/blob/main/composite_image.png" />
 ## ⚙️ Troubleshooting
